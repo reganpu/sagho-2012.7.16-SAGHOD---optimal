@@ -1,0 +1,616 @@
+edge_frame 0
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 4308 suc pkt 4 drop pkt 0 delay 0.01846 avg delay 0.004615
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 3382 suc pkt 3 drop pkt 0 delay 0.013845 avg delay 0.004615
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 1
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 16620 suc pkt 4 drop pkt 0 delay 0.01846 avg delay 0.004615
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 13642 suc pkt 3 drop pkt 0 delay 0.013845 avg delay 0.004615
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 2
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 22776 suc pkt 4 drop pkt 0 delay 0.01846 avg delay 0.004615
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 18772 suc pkt 3 drop pkt 0 delay 0.013845 avg delay 0.004615
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 3
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 36260 suc pkt 8 drop pkt 0 delay 0.04384 avg delay 0.00626286
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 28640 suc pkt 8 drop pkt 0 delay 0.039225 avg delay 0.0065375
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 4
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 44416 suc pkt 9 drop pkt 0 delay 0.056915 avg delay 0.00711438
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 35770 suc pkt 9 drop pkt 0 delay 0.0523 avg delay 0.00747143
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 5
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 58896 suc pkt 13 drop pkt 0 delay 0.097675 avg delay 0.00813958
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 47254 suc pkt 11 drop pkt 0 delay 0.06768 avg delay 0.00752
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 6
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 67900 suc pkt 15 drop pkt 0 delay 0.122285 avg delay 0.00873464
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 55432 suc pkt 13 drop pkt 0 delay 0.09229 avg delay 0.00839
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 7
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 80764 suc pkt 21 drop pkt 0 delay 0.149965 avg delay 0.00833139
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 65676 suc pkt 18 drop pkt 0 delay 0.11305 avg delay 0.008075
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 8
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 84526 suc pkt 25 drop pkt 0 delay 0.149965 avg delay 0.00833139
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 73524 suc pkt 23 drop pkt 0 delay 0.13612 avg delay 0.0085075
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 9
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 97090 suc pkt 29 drop pkt 0 delay 0.174565 avg delay 0.00793477
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 86320 suc pkt 28 drop pkt 0 delay 0.18687 avg delay 0.00889857
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 10
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 101440 suc pkt 31 drop pkt 0 delay 0.174565 avg delay 0.00793477
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 90766 suc pkt 30 drop pkt 0 delay 0.18687 avg delay 0.00889857
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 11
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 113688 suc pkt 34 drop pkt 0 delay 0.200705 avg delay 0.0080282
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 102034 suc pkt 31 drop pkt 0 delay 0.19225 avg delay 0.00873864
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 12
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 126544 suc pkt 40 drop pkt 0 delay 0.23069 avg delay 0.00823893
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 119372 suc pkt 35 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 13
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 129622 suc pkt 40 drop pkt 0 delay 0.23069 avg delay 0.00823893
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 124502 suc pkt 35 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 14
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 136522 suc pkt 42 drop pkt 0 delay 0.239915 avg delay 0.00827293
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 134762 suc pkt 35 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 15
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 140684 suc pkt 46 drop pkt 0 delay 0.253755 avg delay 0.0084585
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 138866 suc pkt 39 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 16
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 151866 suc pkt 48 drop pkt 0 delay 0.280665 avg delay 0.00877078
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 148784 suc pkt 40 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 17
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 155970 suc pkt 48 drop pkt 0 delay 0.280665 avg delay 0.00877078
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 153914 suc pkt 40 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 18
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 163494 suc pkt 49 drop pkt 0 delay 0.280665 avg delay 0.00877078
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 163490 suc pkt 41 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 19
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 167598 suc pkt 49 drop pkt 0 delay 0.280665 avg delay 0.00877078
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 167936 suc pkt 42 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 20
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 175806 suc pkt 49 drop pkt 0 delay 0.280665 avg delay 0.00877078
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 178196 suc pkt 42 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 21
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 179910 suc pkt 50 drop pkt 0 delay 0.280665 avg delay 0.00877078
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 183326 suc pkt 42 drop pkt 0 delay 0.21224 avg delay 0.00884333
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 22
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 188864 suc pkt 54 drop pkt 0 delay 0.2991 avg delay 0.00854571
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 194974 suc pkt 47 drop pkt 0 delay 0.230675 avg delay 0.00854352
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 23
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 194284 suc pkt 57 drop pkt 0 delay 0.30986 avg delay 0.00860722
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 199078 suc pkt 50 drop pkt 0 delay 0.230675 avg delay 0.00854352
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 24
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 205308 suc pkt 61 drop pkt 0 delay 0.33136 avg delay 0.008284
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 210482 suc pkt 53 drop pkt 0 delay 0.2468 avg delay 0.00822667
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 25
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 218352 suc pkt 65 drop pkt 0 delay 0.35134 avg delay 0.00836524
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 225216 suc pkt 56 drop pkt 0 delay 0.25679 avg delay 0.00828355
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 26
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 221430 suc pkt 65 drop pkt 0 delay 0.35134 avg delay 0.00836524
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 230346 suc pkt 56 drop pkt 0 delay 0.25679 avg delay 0.00828355
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 27
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 228568 suc pkt 73 drop pkt 0 delay 0.39744 avg delay 0.00845617
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 241176 suc pkt 58 drop pkt 0 delay 0.26601 avg delay 0.00831281
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 28
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 230620 suc pkt 73 drop pkt 0 delay 0.39744 avg delay 0.00845617
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 249884 suc pkt 63 drop pkt 0 delay 0.32135 avg delay 0.00892639
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 29
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 238540 suc pkt 77 drop pkt 0 delay 0.44124 avg delay 0.00865176
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 263080 suc pkt 67 drop pkt 0 delay 0.36515 avg delay 0.00912875
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 30
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 243698 suc pkt 80 drop pkt 0 delay 0.46737 avg delay 0.0088183
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 267184 suc pkt 70 drop pkt 0 delay 0.36515 avg delay 0.00912875
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 31
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 251326 suc pkt 87 drop pkt 0 delay 0.51577 avg delay 0.00889259
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 276076 suc pkt 72 drop pkt 0 delay 0.36515 avg delay 0.00912875
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 32
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 253378 suc pkt 87 drop pkt 0 delay 0.51577 avg delay 0.00889259
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 285750 suc pkt 75 drop pkt 0 delay 0.402035 avg delay 0.00934965
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 33
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 259962 suc pkt 91 drop pkt 0 delay 0.55341 avg delay 0.00892597
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 301106 suc pkt 80 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 34
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 261672 suc pkt 92 drop pkt 0 delay 0.55341 avg delay 0.00892597
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 305894 suc pkt 81 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 35
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 266192 suc pkt 93 drop pkt 0 delay 0.55955 avg delay 0.00888175
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 314738 suc pkt 83 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 36
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 270244 suc pkt 94 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 318842 suc pkt 83 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 37
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 274690 suc pkt 95 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 327050 suc pkt 83 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 38
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 282470 suc pkt 97 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 337652 suc pkt 87 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 39
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 284522 suc pkt 97 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 341756 suc pkt 87 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 40
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 288284 suc pkt 98 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 349622 suc pkt 88 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 41
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 290336 suc pkt 98 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 353726 suc pkt 88 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 42
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 294440 suc pkt 98 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 361934 suc pkt 88 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 43
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 295808 suc pkt 99 drop pkt 0 delay 0.570305 avg delay 0.00891102
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 366038 suc pkt 88 drop pkt 0 delay 0.466585 avg delay 0.00972052
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 44
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 301488 suc pkt 102 drop pkt 0 delay 0.59333 avg delay 0.00885567
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 374882 suc pkt 92 drop pkt 0 delay 0.48961 avg delay 0.0096002
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 45
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 305198 suc pkt 104 drop pkt 0 delay 0.60562 avg delay 0.00890618
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 377960 suc pkt 95 drop pkt 0 delay 0.48961 avg delay 0.0096002
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 46
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 310448 suc pkt 108 drop pkt 0 delay 0.626335 avg delay 0.00882162
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 387232 suc pkt 97 drop pkt 0 delay 0.50342 avg delay 0.00949849
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 47
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 312908 suc pkt 109 drop pkt 0 delay 0.637855 avg delay 0.0088591
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 392730 suc pkt 99 drop pkt 0 delay 0.51494 avg delay 0.00953593
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 48
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 319332 suc pkt 111 drop pkt 0 delay 0.650125 avg delay 0.00878547
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 403026 suc pkt 104 drop pkt 0 delay 0.545615 avg delay 0.00924771
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 49
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 322880 suc pkt 113 drop pkt 0 delay 0.671625 avg delay 0.00883717
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 408410 suc pkt 105 drop pkt 0 delay 0.556365 avg delay 0.00927275
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 50
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 332700 suc pkt 119 drop pkt 0 delay 0.71845 avg delay 0.00886975
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 417918 suc pkt 108 drop pkt 0 delay 0.577095 avg delay 0.00930798
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 51
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 343880 suc pkt 123 drop pkt 0 delay 0.75837 avg delay 0.008922
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 433198 suc pkt 111 drop pkt 0 delay 0.607035 avg delay 0.009339
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 52
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 345248 suc pkt 125 drop pkt 0 delay 0.75837 avg delay 0.008922
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 436276 suc pkt 114 drop pkt 0 delay 0.607035 avg delay 0.009339
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 53
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 351866 suc pkt 128 drop pkt 0 delay 0.786 avg delay 0.00893182
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 446430 suc pkt 119 drop pkt 0 delay 0.643875 avg delay 0.00933152
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 54
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 357904 suc pkt 130 drop pkt 0 delay 0.81365 avg delay 0.00904056
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 451902 suc pkt 121 drop pkt 0 delay 0.671525 avg delay 0.0094581
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 55
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 364804 suc pkt 139 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 460694 suc pkt 122 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 56
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 366856 suc pkt 139 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 464114 suc pkt 123 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 57
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 370960 suc pkt 139 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 472890 suc pkt 124 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 58
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 373012 suc pkt 139 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 476994 suc pkt 124 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 59
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 375748 suc pkt 141 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 484518 suc pkt 125 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 60
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 377800 suc pkt 141 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 487596 suc pkt 128 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 61
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 381904 suc pkt 141 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 495804 suc pkt 128 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 62
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 383614 suc pkt 142 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 499908 suc pkt 128 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 63
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 385880 suc pkt 143 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 507774 suc pkt 129 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 64
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 388958 suc pkt 144 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 520086 suc pkt 129 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 65
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 389984 suc pkt 144 drop pkt 0 delay 0.86429 avg delay 0.00900302
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 523506 suc pkt 130 drop pkt 0 delay 0.679965 avg delay 0.00944396
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 66
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 393884 suc pkt 147 drop pkt 0 delay 0.891905 avg delay 0.00900914
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 532994 suc pkt 133 drop pkt 0 delay 0.70758 avg delay 0.0094344
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 67
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 396502 suc pkt 149 drop pkt 0 delay 0.905725 avg delay 0.00905725
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 536072 suc pkt 136 drop pkt 0 delay 0.70758 avg delay 0.0094344
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 68
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 402034 suc pkt 152 drop pkt 0 delay 0.93103 avg delay 0.00903913
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 546626 suc pkt 141 drop pkt 0 delay 0.74132 avg delay 0.0093838
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 69
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 403060 suc pkt 152 drop pkt 0 delay 0.93103 avg delay 0.00903913
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 551138 suc pkt 142 drop pkt 0 delay 0.75437 avg delay 0.00942963
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 70
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 405156 suc pkt 155 drop pkt 0 delay 0.94636 avg delay 0.00901295
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 563226 suc pkt 147 drop pkt 0 delay 0.802695 avg delay 0.00944347
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 71
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 410182 suc pkt 157 drop pkt 0 delay 0.97092 avg delay 0.00907402
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 569298 suc pkt 149 drop pkt 0 delay 0.827255 avg delay 0.00950868
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 72
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 415722 suc pkt 162 drop pkt 0 delay 1.0054 avg delay 0.00897674
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 579558 suc pkt 156 drop pkt 0 delay 0.868625 avg delay 0.00934005
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 73
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 417812 suc pkt 164 drop pkt 0 delay 1.02842 avg delay 0.00902118
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 583662 suc pkt 156 drop pkt 0 delay 0.868625 avg delay 0.00934005
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 74
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 420666 suc pkt 167 drop pkt 0 delay 1.04067 avg delay 0.00897125
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 592238 suc pkt 157 drop pkt 0 delay 0.87475 avg delay 0.00930585
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 75
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 425692 suc pkt 169 drop pkt 0 delay 1.06215 avg delay 0.00900123
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 596454 suc pkt 162 drop pkt 0 delay 0.88549 avg delay 0.00932095
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+edge_frame 76
+ BS# 1 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 2 tx bit 429288 suc pkt 173 drop pkt 0 delay 1.08357 avg delay 0.00888168
+ BS# 3 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 4 tx bit 605014 suc pkt 163 drop pkt 0 delay 0.890845 avg delay 0.00927964
+ BS# 5 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 6 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
+ BS# 7 tx bit 0 suc pkt 0 drop pkt 0 delay 0 avg delay -1.#IND
